@@ -2,6 +2,9 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+**.xml
+**.iml
+.idea\workspace.xml
 
 ### Eclipse ###
 .apt_generated
@@ -27,3 +30,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+*.xml
+.idea/workspace.xml
+.idea/workspace.xml
+.idea/workspace.xml
+*.xml
